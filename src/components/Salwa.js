@@ -18,7 +18,7 @@ const Lastsentence = styled.p`
 const Salwa = () => {
   return (
     <Text>
-      <h1>Salwa's Chanel Status</h1>
+      <h1>Salwa's Channel Status</h1>
       <Image alt="SalwasChanel" src={SalwasChanel} />
       <p>
         Wow ya salwa wow!! <br />{" "}

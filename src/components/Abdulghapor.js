@@ -20,10 +20,11 @@ const Lastsentence = styled.p`
 const Abdulghapor = () => {
   return (
     <Text>
-      <h1>Abdulghapor's Chanel Status</h1>
+      <h1>Abdulghapor's Channel Status</h1>
       <Image alt="AbdulghaporsChanel" src={AbdulghaporsChanel} />
       <p>
-        Why ya Abdulghaphor why is there only one student in your chanel! <br />{" "}
+        Why ya Abdulghaphor why is there only one student in your channel!{" "}
+        <br />{" "}
       </p>
       <Lastsentence> sorry not sorry:P</Lastsentence>
     </Text>
